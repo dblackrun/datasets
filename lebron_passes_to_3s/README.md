@@ -11,6 +11,6 @@ Manual tracking of shot data done using [this tool](https://tracking.pbpstats.co
 Manual stats include:
 
 * whether the shot was wide open
-* x, y coordinates of pass location
+* x, y coordinates of pass location (note that locations for passes from the backcourt will use coordinates around half court because the drawing of the court for adding the location does not show the backcourt)
 * player id of passer
 * seconds remaining on the shot clock
